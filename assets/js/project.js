@@ -63,7 +63,7 @@ const projects = [
     Githublink: "https://github.com/SuryaTeja-N/SSL-Tools",
   },
   {
-    title: "Monitoring-Solar-Power-System-Performance",
+    title: "Solar-Power-Monitoring",
     cardImage: "assets/images/project-page/Solarpower.png",
     description: "proposed system used for analysis of solar energy generation,storage, and monitoring using IoT and with help of standerd protols like MQTT",
     tagimg:
