@@ -65,7 +65,7 @@ const volunteershipcards = [
     title: "HackUTA",
     cardImage: "assets/images/experience-page/ulhacks.png",
     description:
-      "I would be responsible for guiding 100s of participants across the globe in their first steps towards building end-to-end full stack development projects.",
+      "I was part of team hackuta, and acted as mentor for guiding 100s of participants across the globe in their first steps towards building end-to-end full stack development projects.",
   },
   {
     title: "all in opensource",
