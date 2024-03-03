@@ -5,66 +5,44 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Data Science",
+    title: "Associate Cloud Engineer",
     cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/browse/data-science",
+    moocLink: "https://www.credential.net/8bb2c7c8-2dd0-4128-90b9-2291ee9a0b31",
   },
   {
-    title: "Cryptography",
+    title: "University of California San Diego Data Structures and Algorithms Specialization",
     cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
+    moocLink: "https://www.coursera.org/account/accomplishments/specialization/P83NA7BN8T5Z",
   },
   {
-    title: "Machine Learning",
+    title: "Google Data Analytics Specialization",
     cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
+    moocLink: "https://www.coursera.org/account/accomplishments/specialization/certificate/HU2EJAZYX6CG",
   },
   {
-    title: "Introduction to HTML 5",
+    title: "Python",
     cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    moocLink: "https://www.coursera.org/account/accomplishments/certificate/YRJLL6JCV7S3",
   },
   {
-    title: "Introduction to CSS 3",
+    title: "Digital Circuits and Microcontrollers",
     cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    moocLink: "https://drive.google.com/file/d/1RaKg38o2JDpN_P36NTbTGSfyJ8val9jNxw/view?usp=share_link",
   },
   {
-    title: "Javascript",
+    title: "Google Cybersecurity Specialization",
     cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-javascript--ud803",
+    moocLink: "https://www.credly.com/badges/3a417fdd-706d-49b3-a1e0-260e257b9804/linked_in_profile",
   },
   {
-    title: "Bootstrap 4",
+    title: "MSME Artificial Intelligence and Machine Learning",
     cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
+    moocLink: "https://drive.google.com/file/d/12xb6VslUT6f6b0Xdgulqu3paOQzk3wrW/view?usp=sharing",
   },
   {
-    title: "Intro to React",
+    title: "JavaScript",
     cardImage: "assets/images/education-page/edx.svg",
-    moocLink: "https://www.edx.org/learn/reactjs",
-  },
-  {
-    title: "Intro to React Native",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink:
-      "https://www.coursera.org/lecture/react-native/introduction-to-react-native-Eax0D",
-  },
-  {
-    title: "NodeJS, Express and MongoDB",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/server-side-nodejs",
-  },
-  {
-    title: "XML-AJAX",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/xml-from-beginner-to-expert/",
-  },
-  {
-    title: "Data Structures & Algorithms",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink:
-      "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
+    moocLink: "https://www.sololearn.com/certificates/CC-VJVY4Z3H",
   },
 ];
 
