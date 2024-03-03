@@ -6,24 +6,24 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Graduate Student Assistant",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Flipkart",
-    time: "(May, 2020 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    cardImage: "assets/images/experience-page/utafortworth_logo.jpeg",
+    place: "UTA Fort Worth",
+    time: "(Jan, 2024 - present)",
+    desp: "<li>Responsible for managing administrative and functional operations at UTA Fort Worth campus, ensuring smooth day-to-day functioning.</li><li>Overseeing IT security-related tasks to safeguard campus systems and data, implementing necessary measures to prevent cybersecurity threats.</li><li>Performing data maintenance tasks to ensure accuracy, integrity, and confidentiality of campus records and information.</li>",
   },
   {
-    title: "Student Developer",
-    cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    title: "Java Backend Developer",
+    cardImage: "assets/images/experience-page/MMADpay.jpeg",
+    place: "MMADPAY",
+    time: "(June, 23 - , Aug, 23)",
+    desp: "<li>Led the development of a versatile payment gateway solution designed to serve multiple merchant services, including prominent platforms like IRCTC iPay, by leveraging Spring Boot and Java technologies.</li><li>Implemented robust backend functionalities and integrations with Apache components to ensure seamless transactions and secure payment processing for diverse merchant partners.</li><li>Collaborated closely with stakeholders to gather requirements, design architecture, and conduct thorough testing, resulting in a scalable and reliable payment gateway solution that met the needs of various clients and merchant services.</li>",
   },
   {
-    title: "Research Intern",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    title: "Software Engineer",
+    cardImage: "assets/images/experience-page/Wipro_exp.jpeg",
+    place: "Wipro Limited",
+    time: "(Sep, 20 - June, 23)",
+    desp: "<li>Led network security enhancement initiatives at Novartis International, achieving a significant reduction in security breaches and manual workload through the implementation of automated SSL certificate management using OCSP automated tools.</li><li>Engineered SSL-toolkit solutions to automate SSL certificate lifecycle management, resulting in a substantial decrease in security breaches and enhanced compliance levels for the organization.</li><li>Orchestrated server migration projects with a 95% on-time completion rate using Agile methodologies, resulting in a 25% reduction in deployment time and improvements in security and compliance measures.</li><li>Pioneered the implementation of disaster recovery models and Hierarchical Storage Management (HSM) configurations, establishing a robust three-tier PKI architecture for secure key management and access control, thereby minimizing potential vulnerabilities.</li><li>Delivered regular security assessments and devised risk mitigation plans to proactively identify and address security threats, ensuring the continuous protection of organizational data and systems.</li><li>Utilized a tech stack comprising SSL/TLS, PKI Management, Python, PyQT5, HSM, and Google Cloud to execute various projects and enhance network security, server infrastructure, and data recovery processes.</li>",
   },
 ];
 
@@ -62,28 +62,16 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "GirlScript Summer Of Code 2020",
-    cardImage: "assets/images/experience-page/1.jpg",
+    title: "HackUTA",
+    cardImage: "assets/images/experience-page/ulhacks.png",
     description:
-      "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
+      "I would be responsible for guiding 100s of participants across the globe in their first steps towards building end-to-end full stack development projects.",
   },
   {
-    title: "StudentCode-in 2020",
-    cardImage: "assets/images/experience-page/2.jpg",
-    description:
-      "Responsible for handling open source contributions for the project Awesome Developer Portfolio.",
-  },
-  {
-    title: "PClub Summer Of Code 2020",
+    title: "all in opensource",
     cardImage: "assets/images/experience-page/3.jpg",
     description:
-      "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
-  },
-  {
-    title: "Hakin-Codes",
-    cardImage: "assets/images/experience-page/4.jpg",
-    description:
-      "Mentoring for the open source projects Deeppixel, Awesome Developer Portfolios and Doc2Pen.",
+      "Mentoring for the projects submitted by the participants of all in opensource.",
   },
 ];
 
@@ -111,41 +99,6 @@ document.addEventListener("DOMContentLoaded", showCards);
 const hackathonsection = document.querySelector(".hackathon-section");
 const mentor = [
   {
-    title: "The Uplift Project",
-    subtitle: "Mentor",
-    image: "assets/images/experience-page/uplift.png",
-    desp: "I would be responsible for guiding 100s of participants across the globe in their first steps towards Applied Data Science and building end-to-end machine learning projects.",
-    href: "https://uplift.girlscript.tech/",
-  },
-  {
-    title: "ULHacks",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/ulhacks.png",
-    desp: "ULHacks is a 36 hour long hackathon organized with an aim to enable students to create a project which empowers learning.",
-    href: "https://ulhacks.com/",
-  },
-  {
-    title: "WaffleHacks",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/wafflehacks.png",
-    desp: "WaffleHacks 2021 is an upcoming 48-hour student-organized hackathon with an aim to bring technical solutions to local communities and small businesses.",
-    href: "https://wafflehacks.org/",
-  },
-  {
-    title: "Elevate Tech",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/elevate.png",
-    desp: "Elevate Hacks is an upcoming all-female virtual hackathon coming from AUGUST 14th to 15th.",
-    href: "https://elevatetech.codes/",
-  },
-  {
-    title: "PitchTeen",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/pitchteen.png",
-    desp: "PitchTeen 2.0 was a tech startup competition for female and non-binary communities in high school and college from all over the world with an aim to create a safe and encouraging place for women to help them explore tech and business fields.",
-    href: "https://www.linkedin.com/company/pitchteen/about/",
-  },
-  {
     title: "Hack-A-Solution",
     subtitle: "Judge",
     image: "assets/images/experience-page/hackasolution.png",
@@ -153,67 +106,11 @@ const mentor = [
     href: "https://hackasolution.devpost.com/",
   },
   {
-    title: "UniGlobe Hacks",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/uniglobe.png",
-    desp: "UniGlobe Hacks 2.0 is an upcoming 4-day long hackathon run by high school students held during 28-31 July 2021.",
-    href: "https://uniglobe-hacks.devpost.com/",
-  },
-  {
-    title: "AtlasHacks",
-    subtitle: "Mentor",
-    image: "assets/images/experience-page/atlas.png",
-    desp: "AtlasHacks II is a 3-day virtual hackathon that aims to foster creativity within hackers all around the world.",
-    href: "https://atlashacks2.devpost.com/",
-  },
-  {
-    title: "NeoHacks",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/neo.png",
-    desp: "NeoHacks is an upcoming 48-hour hackathon taking place July 23-25, 2021 where hundreds of students from around the world will come together virtually to learn new skills, meet new friends, and build awesome projects. We provide beginner-friendly workshops, mentorship, fun games, and more.",
-    href: "https://neohacks.org/",
-  },
-  {
-    title: "Mission Inspired",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/mission.png",
-    desp: "InspireEd Hacks is a nationwide initiative organized by the student-for-student nonprofit, Mission InspirEd, challenging students ages 10-18 to synthesize their creativity and coding experience into a product beneficial to the educational community.",
-    href: "https://www.missioninspired.org/hackathon",
-  },
-  {
     title: "Hack3",
     subtitle: "Judge",
     image: "assets/images/experience-page/hack3.png",
     desp: "Hack3 2021 is an upcoming global online hackathon that aims to enable high school students to learn computer science, with a broader message of (everyone can code) targeting underrepresented demographics to improve diversity and inclusion of individuals in the computer technology space.",
     href: "https://hack3.co/",
-  },
-  {
-    title: "JITHack",
-    subtitle: "Mentor",
-    image: "assets/images/experience-page/jithack.png",
-    desp: "JITHack is an upcoming virtual design and development hackathon organized by the students of Jyothy Institute of Technology, Bengaluru on June 26, 2021, where participants have 24 hours to build something incredible.",
-    href: "https://jithack.netlify.app/",
-  },
-  {
-    title: "Recess Hacks",
-    subtitle: "Mentor",
-    image: "assets/images/experience-page/recess.png",
-    desp: "Recess Hacks is an upcoming hackathon for high school students in the Greater Toronto Area that strives to encourage innovation among high school students and get involved in technology.",
-    href: "https://recesshacks.com/",
-  },
-  {
-    title: "Citro Tech",
-    subtitle: "Mentor",
-    image: "assets/images/experience-page/citro.png",
-    desp: "Citro Hacks 2021 is an upcoming all-inclusive online hackathon organized by Citro Tech, a student led organization dedicated to empowering minorities in the tech field</li>",
-    href: "https://citro.tech/",
-  },
-  {
-    title: "NHacks",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/nhacks.png",
-    desp: "NHacks VI was a hackathon that aimed to encourage students everywhere to develop skills in computer science by creating tangible products that they're proud of. It initially started as Michigan's largest high school hackathon.",
-    href: "https://nhacks-vi.devpost.com/",
   },
 ];
 
