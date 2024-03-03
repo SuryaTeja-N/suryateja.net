@@ -6,42 +6,42 @@ const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
     title: "Associate Cloud Engineer",
-    cardImage: "assets/images/education-page/coursera2.svg",
+    cardImage: "assets/images/education-page/Associate_Cloud_Eng.png",
     moocLink: "https://www.credential.net/8bb2c7c8-2dd0-4128-90b9-2291ee9a0b31",
   },
   {
     title: "University of California San Diego Data Structures and Algorithms Specialization",
-    cardImage: "assets/images/education-page/udemy.svg",
+    cardImage: "assets/images/education-page/ucsandiego.png",
     moocLink: "https://www.coursera.org/account/accomplishments/specialization/P83NA7BN8T5Z",
   },
   {
     title: "Google Data Analytics Specialization",
-    cardImage: "assets/images/education-page/coursera2.svg",
+    cardImage: "assets/images/education-page/google_dataanalytics.png",
     moocLink: "https://www.coursera.org/account/accomplishments/specialization/certificate/HU2EJAZYX6CG",
   },
   {
     title: "Python",
-    cardImage: "assets/images/education-page/udacity.svg",
+    cardImage: "assets/images/education-page/python_google.png",
     moocLink: "https://www.coursera.org/account/accomplishments/certificate/YRJLL6JCV7S3",
   },
   {
     title: "Digital Circuits and Microcontrollers",
-    cardImage: "assets/images/education-page/udacity.svg",
+    cardImage: "assets/images/education-page/NPTEL.png",
     moocLink: "https://drive.google.com/file/d/1RaKg38o2JDpN_P36NTbTGSfyJ8val9jNxw/view?usp=share_link",
   },
   {
     title: "Google Cybersecurity Specialization",
-    cardImage: "assets/images/education-page/udacity.svg",
+    cardImage: "assets/images/education-page/Cybersecurity_Google.png",
     moocLink: "https://www.credly.com/badges/3a417fdd-706d-49b3-a1e0-260e257b9804/linked_in_profile",
   },
   {
     title: "MSME Artificial Intelligence and Machine Learning",
-    cardImage: "assets/images/education-page/udemy.svg",
+    cardImage: "assets/images/education-page/MESME_AI.jpeg",
     moocLink: "https://drive.google.com/file/d/12xb6VslUT6f6b0Xdgulqu3paOQzk3wrW/view?usp=sharing",
   },
   {
     title: "JavaScript",
-    cardImage: "assets/images/education-page/edx.svg",
+    cardImage: "assets/images/education-page/Sololearn.jpeg",
     moocLink: "https://www.sololearn.com/certificates/CC-VJVY4Z3H",
   },
 ];
