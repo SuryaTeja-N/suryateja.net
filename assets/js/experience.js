@@ -99,11 +99,11 @@ document.addEventListener("DOMContentLoaded", showCards);
 const hackathonsection = document.querySelector(".hackathon-section");
 const mentor = [
   {
-    title: "Hack-A-Solution",
-    subtitle: "Judge",
+    title: "OdinProject",
+    subtitle: "Mentor",
     image: "assets/images/experience-page/hackasolution.png",
-    desp: "Hack-a-Solution 2021 is a 24 hour long hackathon organized by Frisco students to raise awareness of world issues through technology.",
-    href: "https://hackasolution.devpost.com/",
+    desp: "Odinproject is a opensource project that aims to make ease of learning full stack developement accessible to everyone. OdinProject was founded with the primary goal of helping people learn full stack development.",
+    href: "https://github.com/SuryaTeja-N/Odin_Project",
   },
   {
     title: "Hack3",
