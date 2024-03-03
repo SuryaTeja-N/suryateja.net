@@ -109,7 +109,7 @@ const mentor = [
     title: "Hack3",
     subtitle: "Judge",
     image: "assets/images/experience-page/hack3.png",
-    desp: "Hack3 2021 is an upcoming global online hackathon that aims to enable high school students to learn computer science, with a broader message of (everyone can code) targeting underrepresented demographics to improve diversity and inclusion of individuals in the computer technology space.",
+    desp: "Hack3-2021 isglobal online hackathon that aims to enable high school students to learn computer science, with a broader message of (everyone can code) targeting underrepresented demographics to improve diversity and inclusion of individuals in the computer technology space.",
     href: "https://hack3.co/",
   },
 ];
