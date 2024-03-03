@@ -36,7 +36,7 @@ const moocscards = [
   },
   {
     title: "MSME Artificial Intelligence and Machine Learning",
-    cardImage: "assets/images/education-page/msme.svg",
+    cardImage: "assets/images/education-page/msme3.svg",
     moocLink: "https://drive.google.com/file/d/12xb6VslUT6f6b0Xdgulqu3paOQzk3wrW/view?usp=sharing",
   },
   {
