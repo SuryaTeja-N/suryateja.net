@@ -14,7 +14,7 @@ const projects = [
     Githublink: "https://github.com/SuryaTeja-N/Surya_Codesense",
   },
   {
-    title: "Full stack Pizza Delivery Web App",
+    title: "Pizza Delivery App",
     cardImage: "assets/images/project-page/pizza_delivery.png",
     description: "A full stack Web App built using MERN stack for ordering pizza online.",
     Previewlink: "https://pizza-delivery-app-e1273.web.app/",
