@@ -17,7 +17,6 @@ const projects = [
     title: "Full stack Pizza Delivery Web App",
     cardImage: "assets/images/project-page/pizza_delivery.png",
     description: "A full stack Web App built using MERN stack for ordering pizza online.",
-    tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "https://pizza-delivery-app-e1273.web.app/",
     Githublink: "https://github.com/SuryaTeja-N/Pizza_delivery_Fullstackapp",
   },
